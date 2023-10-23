@@ -2,7 +2,7 @@
 - 
 🚀 Full-Stack Developer | Passionate about Code & Creativity | Open Source Enthusiast 🌟
 
-👋 Hey there, I'm [Your Name]!
+👋 Hey there, I'm ISHIMWE EMMANUEL!
 
 🌐 Exploring the Digital Frontier: I'm on a journey to create innovative solutions, one line of code at a time. As a full-stack developer, I'm equally at home working on front-end magic as well as optimizing server-side performance.
 
@@ -18,6 +18,6 @@
 
 🌟 Join me on this exciting coding journey, and together, we'll build a better, smarter, and more connected future.
 
-📫 Reach out to me at [Your Email] or connect on LinkedIn [Your LinkedIn Profile]!
+📫 Reach out to me at ishimweemmanuel0415@gmail.com or connect on LinkedIn!
 
 🌈 Happy coding!
